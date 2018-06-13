@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="title_activity_maps">Donors Locations</string>
+    <string name="eligibility_">Eligibility Requirements</string>
+    <string name="appname">Blood Bank</string>
+    <string name="design">Developed By</string>
+    <string name="jack">Jatin Bhuchhda</string>
+    <string name="Signin">Login</string>
+    <string name="Signup">Signup</string>
+    <string name="title_activity_login">Login</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="fullName">Full Name</string>
+    <string name="aadhar">Aadhar Number</string>
+
+
+    <!-- Blood Bank Address -->
+    <string name="amreli"><b>Indian Red Cross Society</b>\n\nMahatma Muldas Red Cross Bhavan,\nCivil Hospital Campus,\nAmreli-365601\n<b>Phone : 02792-223034, 232854</b></string>
+
+    <string name="rajkot"><b>General Hospital</b>\n\nP.D.U. Hospital,\nCivil Hospital Campus,\nRajkot-360001\n<b>Phone : 0281-2450385, 2458337, 2458338, 2458339</b>
+    \n\n<b>Rajkot Voluntary Blood Bank And Research Centre</b>\n\nAjay Mansion,\nMalaviya Road,\nRajkot-360002\n<b>Phone : 0281-2234242</b>
+    \n\n<b>Smt.S.C. Patel Field Marshal Blood Bank</b>\n\n104, Rajeshwari Commercial Complex,\nOpp. Ramkrishna Ashram,\nDr.Yagnik Road.\nRajkot-360002\n<b>Phone : 0281-2480043, 2481717</b>
+    \n\n<b>Nathani Voluntary Blood Bank And Blood Transfusion Centre</b>\n\n11,Tejas Building,\n20/22,New Jagnath Plot,\nRajkot\n<b>Phone : 0281 2480659, 6522111</b>
+    \n\n<b>Red Cross Blood Bank</b>\n\nRajkot Red Cross Building,\n1st Floor, Suchak Road,\nNr.Kundaliya Collage,\nRajkot-360001\n<b>Phone : 0281-2466260, 2464442</b>
+    \n\n<b>Saurashtra Voluntary Blood Bank\nResearch Centrekathiyawad Medical\nEducation Charitable Trust</b>\n\nOpp:- Gurukul Hospital, Satkar Complex,\nGondal Road,Nr. Railway Crossing,\nRajkot-360002\n<b>Phone : 0281-2450301</b>
+    \n\n<b>Shiv Voluntary Blood Banklate Shri Mansukhbhai Ganeshbhai Marvania Charitable Trust Organised</b>\n\n2d Floor Pavan Complex,\nSanala Road,\nRajkot\n<b>Phone : 02822-292577</b>
+    \n\n<b>Jetpur Medical Foundation</b>\n\nKanakiya Plot, Rajkot\n<b>Phone : 02827-226123</b>
+    \n\n<b>Jagruti Charitable Trust Blood Bank</b>\n\nAzad Chowk, Three Gate, Rajkot-360410\n<b>Phone : 02824-222485</b>
+    \n\n<b>Astha Voluntary Blood Bank</b>\n\nJetpur Road, Gondal,\nOpp:- Hava Mahel Nr.GIDC Gate, Gondal,\nRajkot\n<b>Phone : 02825-220828</b></string>
+
+    <string name="amd">
+    <b>Sheth V.S. General Hospital\nShree Nhl Municipal Medical College</b>\nEllisbridge\nAhmedabad-380006\n<b>Phone : 079-26577621</b>
+    \n\n<b>Smt. Laxmiben Chimanlal Lalbhai Blood Bank</b>\nSmt. Shardaben Chimanlal Municipal General Hospital\nSaraspur Ahmedabad-380018\n<b>Phone : 079-22164261, 22924264</b>
+    \n\n<b>Sheth L.G. General Hospital And Blood Bank</b>\nSheth L.G. General Hospital,\nManinagar Ahmedabad-380008\n<b>Phone : 079-25461380, 25461384</b>
+    \n\n<b>Civil Hospital</b>\nAsarwa\nAhmedabad-380016\n<b>Phone : 079-22683949, 22683721</b>
+    \n\n<b>Civil Hospital-2</b>GandhinagarSarkhej Highway,\nSola Ahmedabad\n<b>Phone : 079-27432584, 27474359</b>
+    \n\n<b>Military Hospital Blood Bank</b>\n24, M.H. Complex\nAhmedabad-380003\n<b>Phone : N/A</b>
+    \n\n<b>Indian Red Cross Society Blood Bank</b>\nAhmedabad District Branch,\n18-Gujarat Brahmkshatriya Society,\nBehind Suvidha Market,\nPaldi Ahmedabad-380007\n<b>Phone : 079-26651833, 26650855</b>
+    \n\n<b>Gujarat Cancer Research Institute</b>\nM.P. Shah Cancer Hospital,\nCivil Hospital Campus\nAhmedabad-380016\n<b>Phone : 079-22681451, 22688061,</b>
+    \n\n<b>Smt. G R Doshi And Smt. K M Mehta Institute Of Kidney Disease And Research Centre</b>\nCivil Hospital Compound,\nAsarwa Ahmedabad-380016\n<b>Phone : 079-22687164, 22687000, 22685609</b>
+    \n\n<b>Dr. Jivraj Mehta Smarak Health Foundationbakeri Medical Research Centre</b>\nRatubhai Adani Arogyadham,\nNear Ayojan Nagar\nAhmedabad-380007\n<b>Phone : 079-22687164, 22687143</b>
+    \n\n<b>Prathma Blood Center</b>\nDr.C.V.Raman Marg,\nB/H.Jivraj Mehta Hospital,\nNear Lavanya Society, Vasana\nAhmedabad-380007\n<b>Phone : 079-26600101</b>
+    \n\n<b>White Cross Blood Bank</b>\n2d Floor, Kandhari Bldg\n,Opp:-S.T.Work Shop,\nNaroda Road Patia\nAhmedabad\n<b>Phone : 079-22815227</b>
+    \n\n<b>Adarsh Voluntary Blood Bank</b>\nAhmedabad\n<b>Phone : 079-22749146, 22746672</b>
+    \n\n<b>Gujarat Blood Bank And Pathology Laboratory And R.I.A. Unit</b>\n1-2, Subhlaxmi Complex\nAhmedabad\n<b>Phone : 079-27413719</b>
+    \n\n<b>Karnavati Blood Bank And Pathology Laboratory</b>\n36, Subhlaxmi Complex,\nOpp Sanghavi Highschool\nAhmedabad-380013\n<b>Phone : 079-27415150</b>
+    \n\n<b>Gujarat Blood Bank (Trust), Pathology Laboratory</b>\n101,Span Trade Centre,\nOpp.Kochrab Ashram,\nNr.Paldi Char Rasta\nAhmedabad-380006\n<b>Phone : 079-26586480, 26584893, 66314721</b>
+    \n\n<b>Cross + World Blood Bank (Voluntary) And Sankalp Diagnostics</b>\nChandraprabhu Complex 1ST Floor,\nStadium Road, Naranpura,nSardar Patel Colony Char Rasta\nAhmedabad-380013\n<b>Phone : 079-26568004, 26401959, 30026671</b>
+    \n\n<b>Maha Gujarat Blood Bank (Vol) And Pathology Laboratory</b>\n21/22 Parth Empire Rambaug,\nNr Fire Station, Maninagar\nAhmedabad-380008\n<b>Phone : 079-25451331, 25461641</b>
+    \n\n<b>Supratch Voluntary Blood Bank</b>\nFirst Floor, Mild Stone,\nNear Drive In Road,\nOpp:- T. V. Tower\nAhmedabad-380054\n<b>Phone : 079-40058958, 40054400, 40057317</b>
+    \n\n<b>Help Voluntary Blood Bank (Sanchalit Help Charitable Trust)</b>\n4/7,Kotyark Complex,\nOpp. L.G. Hospital, Maninagar\nAhmedabad-380008\n<b>Phone : 079-65136744</b>
+    \n\n<b>Sterling Addlife India Limited</b>\nSterling Hospital Road,Memnagar\nAhmedabad-380052\n<b>Phone : 079-40011111</b>
+    \n\n<b>The Gujarat Cancer Society, Medical College Hospital And Research Centre</b>\nOPP:- D.R.M.Office, Swadeshi Mill Compound,\nNr.Chamunda Bridge, Naroda Road\nAhmedabad-380025\n<b>Phone : 079-6648138079, 66048000</b>
+    \n\n<b>General Hospital (Esis) Blood Bank</b>\nBapunagar\nAhmedabad-380024\n<b>Phone : 079-22745770, 22743935</b>
+    </string>
+
+    <string name="anand">
+        <b>Indu Voluntary Blood Bank (Managed By Charotar Health Research Foundation Trust</b>\n3d Floor Jems Plaza,\nNr.D.N.High School,\nStation Road, Anand\n<b>Phone : 02692-259596</b>
+        \n\n<b>A.D.Gorwala Blood Bankpramukhswami Medical College And Shree Krishna Hospital</b>\nH.M.Patel Centre For Medical Care And Education,\nMedical College Campus, Gokulnagar,\nCity : Karamsad-388325,Dist : Anand\n<b>Phone : 02692-221508,222130</b>
+        \n\n<b>Indian Red Cross Society</b>\nSardar Bhavan, Opp. Municipal Building\nAnand-388001\n<b>Phone : 02692-243406,268822</b>
+        \n\n<b>Indian Red Cross Society</b>\nOpp.Ranchhodji Temple,Petlad-388450\nDist : Anand\n<b>Phone : 02697-222251</b>
+        \n\n<b>Shree Ghanshyam Pathology Laboratory And Blood Bank</b>\nKrishna Road, B/H Mayfair Hotel\nAnand\n<b>Phone : 02692-252744,252667</b>
+        \n\n<b>Lions Medical Centre</b>\nPith Bazar, Kambhat\nDist : Anand\n<b>Phone : 02698-220516</b>
+    </string>
+
+    <string name="banaskatha">
+        <b>Blood Bankbaradpura</b>\nNear Delhi Gate,\nBanaskantha-385001\n<b>Phone : 02742-246914,245899</b>
+        \n\n<b>Gayatri Voluntary Blood Bank And Computerised Pathology Laboratory</b>\nKirti Chamber, Kirti Stambh Road,\nBanaskantha\n<b>Phone : 02742-253475</b>
+        \n\n<b>Bhoomi Voluntary Blood Bank</b>\nPaulomi House, Nr.Bridge,\nBanaskantha-385520\n<b>Phone : 02742-260632,260633,256475</b>
+        \n\n<b>Bhansali Trust Sanchalit Gandhi Lincoln (Vol) Blood Bank</b>\nNear Municipal Garden,\nBanaskantha-385535\n<b>Phone : 02744-220172</b>
+        \n\n<b>Vikas Voluntary Blood Bank, Computerised Pathology Laboratory</b>\nKirti Harsh, Complex,\nNr.Gayatri Mandir,Highway Road,\nBanaskantha\n<b>Phone : 02744-230342</b>
+        \n\n<b>Dharti Voluntary Blood Bank</b>\n1st Floor, Super Market,\nBanaskantha\n<b>Phone : 02748-222443</b>
+        \n\n<b>Saraswati Voluntary Blood Bank</b>\nSaraswati Hospital,Opp.Petrol Pump,\nBanaskantha\n<b>Phone : 02748-222011</b>
+        \n\n<b>Gayatri Voluntary Blood Bank</b>\nPlot No.22, C.C.No.4784 Paiki,\nR.S.No.93,1st Floor,Gayatri Temple,\nBanaskantha\n<b>Phone : 02744-230342</b>
+        \n\n<b>Adarsh Voluntary Blood Bank</b>\nAdarsh Complex, 2d Floor,Amkianagar,\nTharad, Dist,Banaskantha\n<b>Phone : N/A</b>
+        \n\n<b>Mafatben Uttamlal Pethani Voluntary Blood Bank, Bhagwan Mahavir Seva Samiti Sanchalit</b>\nNear Delhi Gate,\nPalanpur-385001\n<b>Phone : 02742-246914,245899</b>
+        \n\n<b>General Hospital Blood Bank</b>\nPalanpur,Banaskantha-385001\n<b>Phone : 02742-253083</b>
+    </string>
+
+    <string name="bharuch">
+        <b>Red Cross Blood Bank</b>\nSevashram Hospital Compound\nBharuch-392001\n<b>Phone : 02642-244281,243603</b>
+        \n\n<b>Healthcare Society Sanchalit Kumarpal Gandhi Blood Bank</b>\n"B" Block,1st Floor,Nr.Palika Shopping Centre,\nNr.Gujarat Gas Circle\nBharuch\n<b>Phone : 02646-244530</b>
+    </string>
+
+    <string name="bhavnagar">
+        <b>Sir T. General Hospital And Medical College</b>\nDr.H.L.Vaidhya Marg,Kalanala\nBhavnagar-364001\n<b>Phone : 0278-2423250</b>
+        \n\n<b>Bhavnagar Blood Bank</b>\nPlot No.1686,Office No.1,2,3\n"B-Wing" Sardar Municipal Shopping Center,\nSardarnagar,Bhavnagar-364001\n<b>Phone : 0278-2561526</b>
+        \n\n<b>Bambhaniya Voluntary Blood Bank</b>\n4,Trade Centre, Third Floor,\nKala Nala Circle\nBhavnagar-364001\n<b>Phone : 0278-2224744,3004744</b>
+        \n\n<b>Smt.Sonaliben A.Shah Blood Bank</b>\n2d Floor,Patel Chamber,\nOpp.Haveli-Paliad Road\nBhavnagar-364001\n<b>Phone : 0278-255361,256099</b>
+        \n\n<b>Navkar Charitable Trust</b>\nAbove Ishwar Printing Press,\n2d Floor,Opp.Nagric Bank,Vasi Talav,\nBhavnagar-364290\n<b>Phone :02844-224464</b>
+        \n\n<b>Tulsi Pathology Laboratory And Blood Bank</b>\nBhairav Para\nBhavnagar\n<b>Phone : 02848-252707</b>
+    </string>
+
+    <string name="dahod">
+        <b>Samarth Raktdan Kendra</b>\nHouse No.5123,\n1st Floor,Soniwad,Dahod-389151\n<b>Phone : 02673-223239,242514</b>
+        \n\n<b>Kiran Voluntary Blood</b>\nNear Hotel Vrundavan Station Road,\nDahod-389151\n<b>Phone : 02673-246212</b>
+        \n\n<b>Indian Red Cross Society</b>\nDahod Dr.Harilal C.Seth Red Cross Bhavan,\nPolice Line Road,\nDahod-389151\n<b>Phone : 02673-224422,2655320</b>
+    </string>
+
+    <string name="dang">
+        <b>General Hospital</b>\nAhwa,Dist : Dang\nDang-394710\n<b>Phone : 02631-220205</b>
+    </string>
+
+    <string name="gandhinagar">
+        <b>Shraddhadeep Pathology Lab And Blood Bank</b>\nShiv Complex,Plot No.329,\n1st Floor, Sector-16,\nGandhinagar\n<b>Phone : 079-23222474</b>
+        \n\n<b>Apollo Hospitals International Ltd</b>\nBlock No.1/A, G.I.D.C.,Bhat,\nGandhinagar\n<b>Phone : 079-66701825</b>
+        \n\n<b>Patel Narayanbhai Narsinhbhai (Gulabpurawala) Voluntary Blood Bank</b>\nVijay Complex,Opp,Annapurna Party Plot,\nMansa-Gandhinagar Highway,\nMansa,Gandhinagar\n<b>Phone : 02763-270085</b>
+        \n\n<b>Indian Red Cross Society</b>\nSheth C.S.Municipal Hospital,\nGandhinagar-382721\n<b>Phone : 02764-227836</b>
+        \n\n<b>Indian Medical Association (Ima)</b>Manasa Charitable Trust Sanchalit C.M.K.-P.N.N.\nVoluntary Blood Bank,1st Floor,\nVijay Complex, Mansa-Gandhinagar Highway,Manasa\nGandhinagar-382845\n<b>Phone : 02763-270085</b>
+    </string>
+
+    <string name="gir_somnath">
+        <b>Divyajyoti Voluntary Blood</b>\nVarsing Pur Road,B/H Jalaramvadi,\nUna\n<b>Phone : 02875-252410,224236</b>
+    </string>
+
+    <string name="jamnagar">
+        <b>Guru Govindsingh Hospital</b>\nJamnagar-361008\n<b>Phone : 0288-2661052</b>
+        \n\n<b>Jamnagar Voluntary Blood Bank</b>\nFirst Floor,Shankuntal Apartment\nHawai Chowk,Jamnagar-361008\n<b>Phone : 0288-2673339,2541070</b>
+        \n\n<b>General Hospital</b>\nJamnagar\n<b>Phone : 02833-234704</b>
+        \n\n<b>Mithapur Hospital Tata Chemical Ltd</b>\nJamnagar\n<b>Phone : N/A</b>
+    </string>
+
+    <string name="junagadh">
+        <b>General And Cmz Hospital Blood Bank</b>\nM.G.Road, Junagadh\n<b>Phone : 0285-2651436,2620652</b>
+        \n\n<b>Sardar Patel Voluntary Blood Bank</b>\n"Shital ",Ramnagar,Nr.Shital Book Store,\nStation Road, Keshod, Junagadh\n<b>Phone : 02871-233353</b>
+        \n\n<b>Shri Jivanprakash Foundation Voluntary Blood Bank</b>\nVikram Commercial Complex,\nSardar Baug Road, Junagadh\n<b>Phone : 0285-2630672,2631672</b>
+        \n\n<b>Navjeevan Blood Bank And Clinical Laboratory</b>\nLilashah Shopping Centre,\nNr.Bus Station, Junagadh\n<b>Phone : 02876-221415</b>
+        \n\n<b>Navdeep Voluntary Blood Bank</b>\n1st Floor, Sankalp Complex,\nS.T. Road, Opp:-Chikhaliyas Hospital,\nJunagadh\n<b>Phone : 0285-2631127</b>
+    </string>
+
+    <string name="kheda">
+        <b>Chhotalal Ranchhoddas Parikh Blood Bank</b>\nIndian Red Cross Society Building,\nStation Road, Kapadwanj\nDist.Kheda-387620\n<b>Phone : 02691-263255</b>
+        \n\n<b>Indian Red Cross Society Blood Bank (Shri H.V.Desai Blood Bank)</b>\nRed Cross Building, Santram Road,\nNadiad, Santram Road, Kheda-387001\n<b>Phone : 0268-2566944</b>
+        \n\n<b>Muljibhai Patel Urological Hospital</b>\nDr.V.V.Desai Marg, Kheda\n<b>Phone : 0268-2520323,2520325</b>
+        \n\n<b>Gujarat Methodist Church Cardiac Care And Research Society\nDharamsinh Desai Memorial Methodist Institute Of Cardiology And Cardiovascular Surgery</b>\nMission Road, Nadiad\nDist.Kheda-387002\n<b>Phone : 0268-255711,2555711,2555723</b>
+    </string>
+
+    <string name="kutch">
+        <b>Mayur Blood Bank</b>\nAzad Chowk, Mandvi, Kutch\n<b>Phone : 02832-231324</b>
+        \n\n<b>G.K. General Hospital And Adani Medical College</b>\nBhuj,Dist.Kutch-370001\n<b>Phone : 02832-250150</b>
+        \n\n<b>Jivanjyot Blood Bank</b>\nJivandeep Hospital,63-A/B Vijay Nagar,\nNew Hospital Road, Kutch\n<b>Phone : 02832-222812</b>
+        \n\n<b>Shri Rajabhai Patel Blood Bank</b>\nIndian Medical Association Gandhidhan\nTrustPlot No.CC-1, Ward No. 7-B,\nNr.Gurukul Road,Gandhidham,\nKutch-370201\n<b>Phone : 02836-257366,257323,257333</b>
+        \n\n<b>Purna Blood Bank</b>\nPurna Nurshing Home, Ganga Naka\nKutch\n<b>Phone : N/A</b>
+        \n\n<b>Matrushri Meghbai Premji Jetha Hospital And Research Centre</b>\nBhuj Mundra Road, Kutch-370001\n<b>Phone : 02832-231133,231144</b>
+    </string>
+
+
+</resources>
